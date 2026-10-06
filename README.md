@@ -24,6 +24,7 @@
 | [SubX](https://github.com/harshzagade/SubX) | High-performance subdomain discovery — passive OSINT enumeration + intelligent DNS brute-forcing |
 | [DurbX](https://github.com/harshzagade/DurbX) | Async directory & file discovery leveraging high-concurrency web reconnaissance |
 | [Guardx-mcp](https://github.com/harshzagade/Guardx-mcp) | Defensive MCP server — secret scanning, dependency CVE auditing & breached-password checks |
+| [Argus](https://github.com/harshzagade/argus) | Wazuh-style SIEM/XDR lab — 23 detection rules, 5 SOAR playbooks, Python endpoint agent, live SOC dashboard & attack simulator |
 
 ### 🧰 Toolbox
 
