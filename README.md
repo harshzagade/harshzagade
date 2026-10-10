@@ -26,6 +26,7 @@
 | [Guardx-mcp](https://github.com/harshzagade/Guardx-mcp) | Defensive MCP server — secret scanning, dependency CVE auditing & breached-password checks |
 | [Argus](https://github.com/harshzagade/argus) | Homegrown SIEM/XDR — 28 YAML detection rules across 26 MITRE ATT&CK techniques, 5 SOAR playbooks, stdlib-only Python endpoint agent, live WebSocket SOC dashboard & built-in attack simulator |
 | [WaybackMiner](https://github.com/harshzagade/WaybackMiner) | Passive recon via the Wayback Machine — mines a domain's archived URLs, query parameters and JS files without ever touching the target. Stdlib-only |
+| [HeaderHawk](https://github.com/harshzagade/HeaderHawk) | Security-header analyzer — grades response headers A+ to F, explains every miss and suggests the exact header to add. Live mode + offline mode, CI gate. Pairs with Xploit |
 
 ### 🧰 Toolbox
 
